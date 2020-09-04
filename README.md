@@ -1,1 +1,1 @@
-# sandalasiddiqui-API-DataWarnglingMiniProject
+# API-DataWarnglingMiniProject
